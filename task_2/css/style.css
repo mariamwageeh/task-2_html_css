@@ -1,0 +1,36 @@
+body{
+    background-color: #D2DAFF;
+}
+.div1{
+    width: 175px;
+    height: 175px;
+    color: white;
+    background-color: #B1B2FF;
+    border-radius: 50%;
+   text-align: center;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    color: white;
+    background-color: #B1B2FF;
+    border-radius: 50%;
+   text-align: center;
+}
+.div3{
+    width: 225px;
+    height: 225px;
+    color: white;
+    background-color: #B1B2FF;
+    border-radius: 50%;
+   text-align: center;
+}
+h1{
+    color: rgb(63, 63, 186);
+    background-color: aliceblue;
+    text-align: center;
+    /* width: 200px;
+    height: 50px;
+    border: 2px solid white;
+    background-color: #B1B2FF; */
+}
